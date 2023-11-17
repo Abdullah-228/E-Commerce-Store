@@ -1,0 +1,8 @@
+﻿body {
+    background-image: url("../media/backgound2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.paragraph{
+    color: white;
+}
